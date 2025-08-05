@@ -6,5 +6,3 @@ document.getElementById('alertButton').addEventListener('click', function () {
         this.style.transform = 'scale(1)';
     }, 150);
 });
-
-
