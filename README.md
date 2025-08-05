@@ -44,4 +44,27 @@ web-development-basics/
 
 ```bash
 git clone https://github.com/your-username/web-development-basics.git
+Open in browser:
+
+Simply open index.html in any modern browser.
+
+💡 No build tools or frameworks needed — pure HTML, CSS, and JS!
+
+💬 Interactive Demo
+Click the "Show Alert!" button to see an animated alert in action and button feedback via scaling animation.
+
+📚 Useful Resources
+MDN Web Docs
+
+W3Schools
+
+freeCodeCamp
+
+📄 License
+This project is open-source and free to use under the MIT License.
+👨‍💻 Made with ❤️ by [Purnendu Giri]
+
+---
+
+Let me know if you'd like this in downloadable `.md` format or want it customized for GitHub Pages deployment.
 
